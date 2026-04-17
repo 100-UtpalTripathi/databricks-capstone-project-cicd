@@ -1,0 +1,4 @@
+variables:
+  catalog_name:
+    description: Catalog for the resources.
+    default: default
